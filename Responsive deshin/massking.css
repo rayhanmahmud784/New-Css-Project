@@ -1,0 +1,66 @@
+/* .lol{
+    -webkit-mask-image: url(w3logo.png);
+    mask-image: url(w3logo.png);
+    mask-repeat: no-repeat;    
+} */
+
+/* button{
+    padding: 10px;
+    background-color: aqua;
+    outline: none;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 1s;
+    border-color: chartreuse;
+    box-shadow: 0px 0px 10px rgb(216, 183, 183);
+    cursor: progress;
+    float: left;
+}
+
+button:hover{
+    background-color: rgb(200, 26, 216);
+  border-color: rgb(255, 255, 255);
+} */
+
+.hove{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+
+}
+
+.hove spam{
+    cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.hove spam:after{
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.hove:hover spam{
+    padding-right: 25px;
+}
+
+.hove:hover spam::after{
+    opacity: 1;
+  right: 0;
+}

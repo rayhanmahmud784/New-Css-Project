@@ -1,0 +1,104 @@
+/* CSS Document */
+
+
+/* #customers th{
+    background-color: aquamarine;
+    color: black;
+    padding: 1%;
+}
+#customers tr:nth-child(even) {
+background-color:#f2f2f2;
+  }
+
+  .lol3{
+    border: 1px solid #ddd;
+  padding: 8px;
+
+  }
+  
+
+.ray1 {
+  position: relative;
+  z-index: 1;
+  background-color: black;
+  color: #ddd;
+ 
+}
+
+.ray2 {
+  position: absolute;
+  z-index: 3; 
+  background: lightgray;
+  background-color: blue;
+ 
+}
+
+.ray3 {
+  position: absolute;
+  z-index: 2; 
+  background: lightgreen;
+  background-color: hotpink;
+ 
+} 
+  */
+
+/* .rau{
+background-color: darkgreen;
+height: 400px;
+width: 600px;
+position: relative;
+
+
+}
+
+.rau1{
+  background-color: rgb(248, 0, 0);
+  height: 300px;
+  width:300px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border-radius: 500px;
+  z-index: 2;
+} */
+
+
+/* .tata {
+  float: right;
+  width: 10%;
+  height: 100%;
+}  */
+
+/* div ~p{
+  background-color: lightgreen; 
+
+} */
+
+/* a:hover {
+  color: aqua;
+  background-color: burlywood;
+}
+
+p:nth-child(odd) {
+  color: aquamarine;
+}
+
+body::before{
+  content: "this is a test"
+  ;
+} */
+
+/* div::before{
+  content: "this is hacker one";
+} */
+
+div >p{
+ color: rgb(173, 39, 39);
+}
+
+
+
+

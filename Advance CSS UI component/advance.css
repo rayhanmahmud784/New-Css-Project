@@ -1,0 +1,68 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    /* overflow: hidden; */
+}
+
+li{
+    /* float: left; */
+    display: inline-block;
+}
+
+li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: blueviolet;
+    color: yellow;
+}
+
+.lol{
+    background-color: blueviolet;
+}
+
+.lol1{
+    display: inline-block;
+    position: relative;
+}
+
+.lol1 button{
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: inherit;
+    font-family: inherit;
+    padding: 16;
+    
+}
+
+.lol2{
+    display: none;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+
+}
+
+.lol1:hover .lol2{
+    display: block;
+}
+
+.lo2 a{
+    display: block;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+}
+
+.lol2 a:hover{
+    background-color: cadetblue;
+}

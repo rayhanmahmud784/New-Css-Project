@@ -1,0 +1,37 @@
+/* :root{
+    --blur:rgb(115, 255, 0);
+    --red:rgb(252, 19, 163);
+}
+
+.demo {
+    --blur:rgb(11, 33, 224);
+    background-color: var(--blur);
+    width: 300px;
+    height: 200px;
+}
+
+.lol3{
+    /* --red:rgb(255, 0, 0); */
+    /* color: var(--red);
+} */
+
+
+:root{
+    --blue:red;
+    --black:green;
+    --ray:rgb(15, 0, 231);
+}
+.lol{
+    width: 300px;
+    height: 100px;
+    background-color: var(--black);
+    box-sizing: border-box;
+    border: 1px solid var(--black);
+}
+
+.lol2{
+    width: 300px;
+    height: 100px;
+    border: 1px solid blue;
+    box-sizing: border-box;
+}

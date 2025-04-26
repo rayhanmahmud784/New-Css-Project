@@ -1,0 +1,81 @@
+/* .lol{
+    border: 1px solid black;
+    background-color: rgb(23, 24, 24);
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+    padding: 20px;
+   text-align: left;
+border-radius: 5%;
+}
+
+.lol1{
+    border: 1px solid black;
+    background-color: rgb(22, 230, 15);
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+    padding: 20px;
+   text-align: left;
+   border-radius: 5% 10%;
+}
+.lol2{
+    border: 1px solid black;
+    background-color: rgb(31, 231, 231);
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+    padding: 20px;
+   text-align: left;
+   border-radius: 5% 10% 15%;
+}
+.lol3{
+    border: 1px solid black;
+    background-color: rgb(255, 0, 179);
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+    padding: 20px;
+   text-align: left;
+   border-radius: 5% 10% 15% 20%;
+}
+.lol4{
+    border: 1px solid black;
+background-image: url(../../indext.css/css/ChatGPT\ Image\ Mar\ 31\,\ 2025\,\ 09_57_43\ AM.png);
+    width: 400px;
+    height: 200px;
+    margin: 0px auto;
+    padding: 20px;
+   text-align: left;
+   border-radius: 5% / 20%;
+} */
+
+.lol5{
+    /* border: 10px solid rgb(223, 30, 30);
+    border-radius: 3px 10px 20px 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: Impact'Arial Narrow Bold'sans-serif;
+    background-color: rgb(99, 209, 35);
+    font-size: large;
+    width: calc(100% - 10%);
+    margin: 0px auto;
+    border-image: url(../../indext.css/css/ChatGPT\ Image\ Mar\ 31\,\ 2025\,\ 09_57_43\ AM.png);
+    border-image-slice: 40%;
+    border-image-width: 20px;
+    border-image-outset: 10px;
+    border-image-repeat: round; */
+    border: 5px solid rgb(146, 35, 35);
+    background-color: rgb(22, 180, 56);
+    border-radius: 5%;
+    width: calc(100% - 10%);
+    margin: 0px auto;
+    text-align: center;   
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT''Trebuchet MS', sans-serif;
+    border-image: url(../../indext.css/css/ChatGPT\ Image\ Mar\ 31\,\ 2025\,\ 09_57_43\ AM.png);
+    border-image-slice: 20%;
+    border-image-repeat: round;
+}

@@ -1,0 +1,19 @@
+p{
+    color: rgb(231, 22, 22) ;
+}
+
+p.lol{
+    color: blue ;
+}
+
+p#lol1{
+    color: rgb(0, 64, 255) ;
+}
+
+p[class="lol"]{
+  background-color: black ;
+  color: rgb(234, 235, 234) !important;
+  margin: 0px auto;
+border: 1px solid blueviolet;
+width: min(700px,70%);
+}

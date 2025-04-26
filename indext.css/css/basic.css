@@ -1,0 +1,26 @@
+.ray{
+color: #b94040;
+border-style: groove;
+border-radius: 10%;
+align-content: center;
+text-align: center;
+color: aqua;
+background-color: black;
+padding: 1%;
+text-shadow: #1800ee;
+font-family: "Special Gothic Expanded One", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 1vm;
+text-shadow: 2px 2px blue;
+margin-top: 20%;
+
+}
+
+.ray4{
+background-image: url(https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+background-repeat: no-repeat;
+background-size: 12%;
+background-position: bottom;
+
+}

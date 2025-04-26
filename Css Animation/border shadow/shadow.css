@@ -1,0 +1,70 @@
+/* h2:nth-child(1) {
+text-shadow:  2px 2px;}
+
+h2:nth-child(2) {
+    text-shadow:  2px 2px blue;}
+
+h2:nth-child(3) {
+        text-shadow:  2px 2px 4px #000000;}
+
+       h2:nth-child(4) {
+            text-shadow:   0 0 3px #FF0000;} */
+
+            /* .lol{
+                background-color: rgb(133, 255, 255);
+                width: 50%;
+                height: 300px;
+                box-shadow: 10px 10px 5px 12px rgb(158, 0, 221) ;
+                border-radius: 10%;
+            } */
+
+            /* .ray{
+                width: 250px;
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                text-align: center;
+            }
+
+            .ray1{
+                background-color: #4CAF50;
+                color: white;
+                padding: 10px;
+                font-size: 40px;
+            }
+
+            .ray2{
+                color: rgb(0, 0, 0);
+                padding: 10px;
+                font-size:20px;
+            } */
+
+            
+            /* .ray{
+                width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+            .ray1 img{
+             width: 100%;
+             height: auto;
+            }
+
+            .ray2{
+                padding: 10px;
+                font-size:20px;
+            } */
+
+            /* .lol{
+                 width: 200px;
+                border: 2px solid black;    
+                overflow: hidden;
+                text-overflow: ellipsis;
+               word-break: break-all;
+            }
+
+            h1{
+                writing-mode: vertical-rl ;
+            }
+
+            h2{
+                writing-mode: vertical-lr;
+            } */

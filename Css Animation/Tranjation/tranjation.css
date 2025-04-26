@@ -1,0 +1,85 @@
+/* .ray1{
+    height: 500px;
+    width: 300px;
+    border: 5px solid #000000;
+    background-color: rgb(5, 32, 3);
+    margin: 10px;
+}
+.ray2{
+    height: 500px;
+    width: 300px;
+    border: 5px solid #000000;
+    background-color: rgb(0, 0, 0);
+    margin: 10px;
+}
+.ray3{
+    height: 500px;
+    width: 300px;
+    border: 5px solid #000000;
+    background-color: rgb(117, 117, 117);
+    margin: 10px;
+}
+.ray4{
+    height: 500px;
+    width: 300px;
+    border: 5px solid #000000;
+    background-color: rgb(57, 176, 206);
+    margin: 10px;
+} */
+
+.ray5{
+    height: 400px;
+    width: 300px;
+    border: 5px solid #000000;
+    background-color: rgb(128, 3, 145);
+    margin: 10px;
+    transition: ease-in-out 1s;
+    
+}
+
+/* .ray1{
+    transition-timing-function: linear;
+}
+.ray2{
+    transition-timing-function: ease;
+}
+.ray3{
+    transition-timing-function:ease-in;
+}
+
+.ray4{
+    transition-timing-function:ease-out;
+} */
+
+
+/* .ray1:hover{
+    width: 500px;
+    height: 300px;
+}
+.ray2:hover{
+    width: 500px;
+    height: 300px;
+}
+.ray3:hover{
+    width: 500px;
+    height: 300px;
+}
+.ray4:hover{
+    width: 500px;
+    height: 300px;
+} */
+
+/* .ray5:hover{
+    width: 400px;
+    height: 100px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition: delay 0.5s;
+} */
+
+.ray5:hover{
+    width: 600px;
+    height: 00px;
+    /* transform: rotate(50deg); */
+    /* transition: cubic-bezier(0.075, 0.82, 0.165, 1); */
+   
+}

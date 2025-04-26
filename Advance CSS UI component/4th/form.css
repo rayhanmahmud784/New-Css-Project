@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+.form{
+    background-color: rgb(241, 255, 250);
+    font-family: fantasy;
+    padding: 30px;
+    overflow: hidden;
+}
+
+.form input, select{
+    width: 100%;
+    outline: none;
+    padding:12px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.form label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.form input:focus{
+    outline: 1px solid rgb(193, 0, 241);
+}
+
+.form textarea{
+    width: 100%;
+    outline: none;
+    padding: 12px 10px;
+    border: 1px solid rgb(27, 4, 4);
+    border-radius: 5px;
+}
+
+.form textarea:focus{
+    outline: 1px solid rgb(243, 7, 212);
+}
+
+input[type="button"]{
+    background-color: rgb(13, 247, 227);
+    color: rgb(201, 118, 118);
+    border: none;
+    padding: 12px 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: large;
+    outline: none;
+    
+}
+
+input[type="button"]:hover{
+    background-color: rgb(170, 1, 1);
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+a[target]{
+    color:rgb(7, 7, 212);
+    text-decoration:none;
+    margin: auto;
+}
+a[target="_blank"]{
+    color:rgb(253, 0, 190);
+    text-decoration:none;
+    margin: auto;
+}
+
+p[class~="lol"]{
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+p[class|="lol"]{
+color: blue;
+}
+
+p[class^="lol"]{
+    color: red;
+}
+    
+p[class$="2"]{
+    color: rgb(2, 2, 2);
+}
+    
+p[class*="oo"]{
+    color: rgb(16, 243, 224);
+}

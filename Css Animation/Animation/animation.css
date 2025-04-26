@@ -1,0 +1,38 @@
+.ray{
+    width: 300px;
+    height: 400px;
+    background-color: #f00;
+    margin: 10px;
+    border: 5px solid #000;
+    position: relative;
+    /* animation-name: demo;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-timing-function: linear; */
+    animation: demo 8s linear infinite reverse;
+}
+
+@keyframes demo{
+    0%{
+        background-color: #f00;
+    }
+    25%{background-color: aqua;
+    left: 200px;
+top: 0px;}
+
+50%{
+    background-color: rgb(14, 14, 14);
+    left: 200px;
+    right: 100px;
+    top: 200px;
+}
+
+70%{background-color: chartreuse;
+left: 0px;
+top: 200px;}
+
+100%{background-color: #f00;
+left: 0%;
+top: 0%;}
+}
