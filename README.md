@@ -1,4 +1,4 @@
-![I am Rayhan Mahmud]([https://github.com/rayhanmahmud784 /rayhanmahmud784 /blob/main/code.png](https://github.com/rayhanmahmud784/New-Css-Project/blob/main/code.png?raw=true))
+![I am Rayhan Mahmud](https://github.com/rayhanmahmud784/New-Css-Project/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Rayhan Mahmud</h1>
 <h3 align="center">Programmer | Bug Bounty  | Web Developer | Speed Learner</h3>
