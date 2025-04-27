@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rayhan Mahmud</h1>
 <h3 align="center">Programmer | Bug Bounty  | Web Developer | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Co-founder & Chief Operating Officer at HM Digital Marketing </h4>
 
 <div align="center">
 
